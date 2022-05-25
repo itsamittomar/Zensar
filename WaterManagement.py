@@ -25,7 +25,7 @@ class water:
             self.borewell_amount_3=(self.total_water_3*ratio[1])//sum(ratio)
             
 
-    #this function will add_guest as mentioned in the requiremenr
+    #this function will add_guest as mentioned in the requirement
     def add_guest(self,guest_number):
         self.total_guest+=guest_number
 
