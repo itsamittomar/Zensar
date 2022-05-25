@@ -62,7 +62,7 @@ if __name__ =='__main__':
     os.chdir(path)
     if os.path.exists(path):
 
-        f=open("D:/DSA/Array/user_input.txt")
+        f=open(path)
         c=f.read()
         c=c.split()
         for i in range(len(c)):
