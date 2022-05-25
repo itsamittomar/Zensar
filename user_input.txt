@@ -1,0 +1,4 @@
+Allotwater 2 3:7 
+add_guest 2 
+add_guest 3 
+bill
