@@ -1,3 +1,6 @@
+#This is the format in which we need to pass the parameter to the main program 
+#Note: we need to delete all commments from the user_input file while running the program
+
 Allotwater 2 3:7 
 add_guest 2 
 add_guest 3 
